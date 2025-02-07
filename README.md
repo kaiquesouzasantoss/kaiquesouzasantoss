@@ -8,11 +8,11 @@
   
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=kaiquesouzasantos&show_icons=true&count_private=true&hide_border=true&title_color=0f4cd1&icon_color=0f4cd1&text_color=70a5fd&bg_color=0d1117" alt="Kaique Souza Santos github stats" /> 
   
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiquesouzasantos&layout=compact&hide_border=true&title_color=0f4cd1&text_color=70a5fd&bg_color=0d1117" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiquesouzasantoss&layout=compact&hide_border=true&title_color=0f4cd1&text_color=70a5fd&bg_color=0d1117" />
   <br><br>
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kaiquesouzasantos&bg_color=0d1117&color=70a5fd&line=70a5fd&point=0f4cd1&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kaiquesouzasantoss&bg_color=0d1117&color=70a5fd&line=70a5fd&point=0f4cd1&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">  
  <a href="mailto:kaiquesouzasantos905@gmail.com"><img src="https://img.shields.io/badge/Gmail-CC2927?style=for-the-badge&logo=gmail&logoColor=white"/></a>
