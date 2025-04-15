@@ -48,6 +48,7 @@
 
 ### 💻 OUTROS CONHECIMENTOS
 ![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=E34F26&labelColor=0D1117)&nbsp;
+![Assembly](https://img.shields.io/badge/Assembly-0D1117?style=for-the-badge&logo=assembly&logoColor=E34F26&labelColor=0D1117)&nbsp;
 ![JUnit5](https://img.shields.io/badge/Junit5-0D1117?style=for-the-badge&logo=junit5&logoColor=25A162&labelColor=0D1117)&nbsp;
 ![Selenium](https://img.shields.io/badge/-selenium-0D1117?style=for-the-badge&logo=selenium&logoColor=%43B02A&labelColor=0D1117)&nbsp;
 ![Swagger](https://img.shields.io/badge/Swagger-0D1117?style=for-the-badge&logo=Swagger&logoColor=85EA2D&labelColor=0D1117)&nbsp;
