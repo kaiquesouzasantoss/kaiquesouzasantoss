@@ -35,7 +35,7 @@
 ![Trello](https://img.shields.io/badge/trello-0D1117?style=for-the-badge&logo=trello&logoColor=white&labelColor=0D1117)&nbsp;
 ![Miro](https://img.shields.io/badge/Miro-0D1117?style=for-the-badge&logo=Miro&logoColor=white&labelColor=0D1117)&nbsp;
 ![Notion](https://img.shields.io/badge/Notion-0D1117?style=for-the-badge&logo=Notion&logoColor=white&labelColor=0D1117)&nbsp;
-![AzureDevOps](https://img.shields.io/badge/Azure_DevOps-0D1117?style=for-the-badge&logo=Azure_DevOps&logoColor=white&labelColor=0D1117)&nbsp;
+![AzureDevOps](https://img.shields.io/badge/azure_devops-0D1117?style=for-the-badge&logo=azure_devops&logoColor=white&labelColor=0D1117)&nbsp;
 ![Intellij](https://img.shields.io/badge/intellij-0D1117?style=for-the-badge&logo=intellij-idea&logoColor=white&labelColor=0D1117)&nbsp;
 ![PyCharm](https://img.shields.io/badge/pycharm-0D1117?style=for-the-badge&logo=PyCharm&logoColor=white&labelColor=0D1117)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual%20studio%20code&logoColor=white&labelColor=0D1117)&nbsp;
