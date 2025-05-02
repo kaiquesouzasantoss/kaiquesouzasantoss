@@ -21,7 +21,21 @@
   <a href="https://www.linkedin.com/in/kaique-souza-santos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <br><br>
 </div> 
- 
+
+### 📑 PROJETOS QUE LIDEREI
+
+<div align="center">
+  <a href="https://github.com/blackoutetecct">
+    <img src="https://img.shields.io/badge/IncluiDev-b222d2?style=for-the-badge&&labelColor=0D1117"/>
+  </a>
+  <a href="https://github.com/IncluiDev">
+    <img src="https://img.shields.io/badge/Blackout-000000?style=for-the-badge&&labelColor=0D1117"/>
+  </a>
+  <a href="https://github.com/kaiquesouzasantoss/projeto-gerenciador-votos-spf-etec">
+    <img src="https://img.shields.io/badge/Semana_Paulo_Freire-d0364e?style=for-the-badge&&labelColor=0D1117"/>
+  </a>
+</div>
+
 ### ⭐ PRINCIPAIS HABILIDADES
 ![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=0D1117)&nbsp;
 ![Spring](https://img.shields.io/badge/Spring-0D1117?style=for-the-badge&logo=spring&logoColor=107C10&labelColor=0D1117)&nbsp;
