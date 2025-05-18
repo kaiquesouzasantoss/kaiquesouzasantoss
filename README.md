@@ -43,6 +43,8 @@
 ![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![PHP](https://img.shields.io/badge/php-0D1117?style=for-the-badge&logo=php&logoColor=777BB4&labelColor=0D1117)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Assembly MIPS](https://img.shields.io/badge/Assembly-0D1117?style=for-the-badge&logo=assemblyscript&logoColor=E34F26&labelColor=0D1117)&nbsp;
+![VBA](https://img.shields.io/badge/VBA-0D1117?style=for-the-badge&logo=visualbasic&logoColor=E34F26&labelColor=0D1117)&nbsp;
 
 ### 🔨 FERRAMENTAS
 
@@ -62,7 +64,6 @@
 
 ### 💻 OUTROS CONHECIMENTOS
 ![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=E34F26&labelColor=0D1117)&nbsp;
-![Assembly MIPS](https://img.shields.io/badge/Assembly-0D1117?style=for-the-badge&logo=assemblyscript&logoColor=E34F26&labelColor=0D1117)&nbsp;
 ![JUnit5](https://img.shields.io/badge/Junit5-0D1117?style=for-the-badge&logo=junit5&logoColor=25A162&labelColor=0D1117)&nbsp;
 ![Selenium](https://img.shields.io/badge/-selenium-0D1117?style=for-the-badge&logo=selenium&logoColor=%43B02A&labelColor=0D1117)&nbsp;
 ![Swagger](https://img.shields.io/badge/Swagger-0D1117?style=for-the-badge&logo=Swagger&logoColor=85EA2D&labelColor=0D1117)&nbsp;
