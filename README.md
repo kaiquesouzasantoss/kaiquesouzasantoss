@@ -25,10 +25,10 @@
 ### 📑 PROJETOS QUE LIDEREI
 
 <div align="center">
-  <a href="https://github.com/blackoutetecct">
+  <a href="https://github.com/IncluiDev">
     <img src="https://img.shields.io/badge/IncluiDev-b222d2?style=for-the-badge&&labelColor=0D1117"/>
   </a>
-  <a href="https://github.com/IncluiDev">
+  <a href="https://github.com/blackoutetecct">
     <img src="https://img.shields.io/badge/Blackout-000000?style=for-the-badge&&labelColor=0D1117"/>
   </a>
   <a href="https://github.com/kaiquesouzasantoss/projeto-gerenciador-votos-spf-etec">
