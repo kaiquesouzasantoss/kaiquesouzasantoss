@@ -61,6 +61,7 @@
 ![Postman](https://img.shields.io/badge/Postman-0D1117?style=for-the-badge&logo=Postman&logoColor=white&labelColor=0D1117)&nbsp;
 ![Jmeter](https://img.shields.io/badge/Jmeter-0D1117?style=for-the-badge&logo=Apache-JMeter&logoColor=white&labelColor=0D1117)&nbsp;
 ![Figma](https://img.shields.io/badge/figma-0D1117?style=for-the-badge&logo=figma&logoColor=white&labelColor=0D1117)&nbsp;
+![SAP](https://img.shields.io/badge/SAP-0D1117?style=for-the-badge&logo=sap&labelColor=0D1117)&nbsp;
 
 ### 💻 OUTROS CONHECIMENTOS
 ![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=E34F26&labelColor=0D1117)&nbsp;
