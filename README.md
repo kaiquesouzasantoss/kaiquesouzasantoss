@@ -3,9 +3,7 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=kaiquesouzasantos&style=for-the-badge&color=0f4cd1">
   <br><br>
-  
-  <img src="https://readme-typing-svg.herokuapp.com/?color=70a5fd&size=35&center=true&vCenter=true&width=1000&lines=<Hello+World!>;<Eu+Sou+o+Kaique+Souza>;<Seja+Bem-Vindo(a)!+:%29>">
-  
+
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=kaiquesouzasantoss&show_icons=true&count_private=true&hide_border=true&title_color=0f4cd1&icon_color=0f4cd1&text_color=70a5fd&bg_color=0d1117" alt="Kaique Souza Santos github stats" /> 
   
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiquesouzasantoss&layout=compact&hide_border=true&title_color=0f4cd1&text_color=70a5fd&bg_color=0d1117" />
@@ -16,7 +14,6 @@
 
 <div align="center">  
  <a href="mailto:kaiquesouzasantos905@gmail.com"><img src="https://img.shields.io/badge/Gmail-CC2927?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href = "https://www.facebook.com/kaique.souzasantos.790"><img src=https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white></a>
    <a href="https://www.instagram.com/kaiquesouzasantoss/"><img src="https://img.shields.io/badge/Instagram-FF007F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/kaique-souza-santos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <br><br>
@@ -38,6 +35,7 @@
 
 ### ⭐ PRINCIPAIS HABILIDADES
 ![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=0D1117)&nbsp;
+![Power PlatForm](https://img.shields.io/badge/Power_PlatForm-0D1117?style=for-the-badge&logo=powerbi&logoColor=white&labelColor=0D1117)&nbsp;
 ![Spring](https://img.shields.io/badge/Spring-0D1117?style=for-the-badge&logo=spring&logoColor=107C10&labelColor=0D1117)&nbsp;
 ![SpringBoot](https://img.shields.io/badge/Spring_Boot-0D1117?style=for-the-badge&logo=springboot&logoColor=239120&labelColor=0D1117)&nbsp;
 ![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
